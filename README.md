@@ -94,11 +94,6 @@ end
 ```sh
 bundle add doorkeeper-jwt
 ```
-
-## API engine doorkeeper and doorkeeper-jwt setup 
-
-Look at `config/initializers/doorkeeper.rb` and `vendor/engines/api/config/initializers/doorkeeper.rb`
-
 # Test if everything work together 
 
 ```shell
